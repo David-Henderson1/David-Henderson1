@@ -37,6 +37,8 @@ Always learning & contributing to open-source projects
 
 ### 📊 GitHub Stats  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=David-Henderson1&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Your GitHub Stats](https://github-readme-stats-d3dezwcrl-david-henderson1s-projects.vercel.app/api?username=David-Henderson1&show_icons=true&theme=transparent)  
 ![Top Languages](https://github-readme-stats-d3dezwcrl-david-henderson1s-projects.vercel.app/api/top-langs/?username=David-Henderson1&layout=compact&theme=transparent)  
 
