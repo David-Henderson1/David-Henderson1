@@ -37,25 +37,14 @@ Always learning & contributing to open-source projects
 
 ### 📊 GitHub Stats  
 
-![GitHub Contributions](https://github-contributions.vercel.app/api?username=David-Henderson1&theme=default)
-[![Ashutosh's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=David-Henderson1&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=David-Henderson1&show_icons=true&count_private=true&theme=radical)
-### 🔥 Contributions
-![GitHub Contributions](https://github-contributions.vercel.app/api?username=David-Henderson1&theme=radical)
-### 🏆 Achievements
-[![Trophy](https://github-profile-trophy.vercel.app/?username=David-Henderson1&theme=gruvbox&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-![Your GitHub Stats](https://github-readme-stats-d3dezwcrl-david-henderson1s-projects.vercel.app/api?username=David-Henderson1&show_icons=true&theme=transparent)  
-![Top Languages](https://github-readme-stats-d3dezwcrl-david-henderson1s-projects.vercel.app/api/top-langs/?username=David-Henderson1&layout=compact&theme=transparent)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=David-Henderson1&show_icons=true&theme=transparent&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Henderson1&layout=compact&theme=transparent&count_private=true)  
 
 ---
 
 ### 🏆 GitHub Achievements  
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=David-Henderson1&theme=gruvbox&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)  
+[![Trophy](https://github-profile-trophy.vercel.app/?username=David-Henderson1&theme=gruvbox&no-frame=true&margin-w=15&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ---
 
