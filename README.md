@@ -1,10 +1,21 @@
-# 💫About Me :
-🌍 Fullstack Developer | Building high-performance, scalable applications that drive impactful results.
-💻 Tech Stack: MongoDB, Express, React, Node.js, Angular, Firebase, Docker, PostgreSQL, GraphQL, Flutter, React Native.
-🔧 Skills: Expertise in web & mobile development, microservices architecture, third-party API integration, cloud solutions, and containerization.
-🎯 Recognized for problem-solving abilities and a commitment to excellence, I deliver clean, efficient code that meets the highest standards. With front-end and back-end expertise, I focus on enhancing code quality, optimizing performance, and meeting ambitious timelines.
-🚀 Currently exploring: Serverless architecture, CI/CD, and performance optimization.
-🌱 Always learning & contributing to open-source projects.
+# 👋 Hi there! Welcome to my GitHub Profile!  
+
+🌍 **Fullstack Developer** | Building high-performance, scalable applications that drive impactful results.  
+
+💻 **Tech Stack:**  
+MongoDB | Express | React | Node.js | Angular | Firebase | Docker | PostgreSQL | GraphQL | Flutter | React Native  
+
+🔧 **Skills:**  
+Expertise in web & mobile development, microservices architecture, third-party API integration, cloud solutions, and containerization.  
+
+🎯 **About Me:**  
+Recognized for problem-solving abilities and a commitment to excellence, I deliver clean, efficient code that meets the highest standards. With expertise across both front-end and back-end stacks, I focus on enhancing code quality, optimizing performance, and meeting ambitious timelines.  
+
+🚀 **Currently Exploring:**  
+Serverless architecture, CI/CD, and performance optimization.  
+
+🌱 **Lifelong Learner:**  
+Always learning & contributing to open-source projects
 
 ### 🛠 Tech Stack  
 #### **Web Development**  
