@@ -51,8 +51,3 @@ Always learning & contributing to open-source projects
 ### 🔥 Streak Stats  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=David-Henderson1&theme=radical)](https://git.io/streak-stats)  
-
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=David-Henderson1&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=David-Henderson1&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Henderson1&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
