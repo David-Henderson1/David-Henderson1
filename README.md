@@ -33,6 +33,24 @@ Always learning & contributing to open-source projects
 #### **Mobile Development**  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)  ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat)  
 
+---
+
+### 📊 GitHub Stats  
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=David-Henderson1&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Henderson1&layout=compact&theme=radical)  
+
+---
+
+### 🏆 GitHub Achievements  
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=David-Henderson1&theme=gruvbox&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)  
+
+---
+
+### 🔥 Streak Stats  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=David-Henderson1&theme=radical)](https://git.io/streak-stats)  
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=David-Henderson1&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
