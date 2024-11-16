@@ -38,7 +38,7 @@ Always learning & contributing to open-source projects
 ### 📊 GitHub Stats  
 
 ![Your GitHub Stats](https://github-readme-stats-d3dezwcrl-david-henderson1s-projects.vercel.app/api?username=David-Henderson1&show_icons=true&theme=transparent)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Henderson1&layout=compact&theme=transparent)  
+![Top Languages](https://github-readme-stats-d3dezwcrl-david-henderson1s-projects.vercel.app/api/top-langs/?username=David-Henderson1&layout=compact&theme=transparent)  
 
 ---
 
