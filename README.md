@@ -37,8 +37,8 @@ Always learning & contributing to open-source projects
 
 ### 📊 GitHub Stats  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=David-Henderson1&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Henderson1&layout=compact&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=David-Henderson1&show_icons=true&theme=transparent)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=David-Henderson1&layout=compact&theme=transparent)  
 
 ---
 
@@ -50,4 +50,4 @@ Always learning & contributing to open-source projects
 
 ### 🔥 Streak Stats  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=David-Henderson1&theme=radical)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=David-Henderson1&theme=transparent)](https://git.io/streak-stats)  
