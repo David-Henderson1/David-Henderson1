@@ -37,14 +37,8 @@ Always learning & contributing to open-source projects
 
 ### 📊 GitHub Stats  
  
-![Your GitHub Stats](https://github-readme-stats-git-main-david-henderson1s-projects.vercel.app/api?username=David-Henderson1&show_icons=true&theme=transparent&count_private=true&random=1234)  
-![Top Languages](https://github-readme-stats-git-main-david-henderson1s-projects.vercel.app/api/top-langs/?username=David-Henderson1&layout=compact&theme=transparent&count_private=true&random=1234)  
-
----
-
-### 🏆 GitHub Achievements  
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=David-Henderson1&theme=gruvbox&no-frame=true&margin-w=15&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)  
+![Your GitHub Stats](https://github-readme-stats-git-main-david-henderson1s-projects.vercel.app/api?username=David-Henderson1&show_icons=true&theme=transparent&count_private=true&random=124)  
+![Top Languages](https://github-readme-stats-git-main-david-henderson1s-projects.vercel.app/api/top-langs/?username=David-Henderson1&layout=compact&theme=transparent&count_private=true&random=124)  
 
 ---
 
