@@ -38,8 +38,8 @@ Always learning & contributing to open-source projects
 ### 📊 GitHub Stats  
 
 <div align="center">
-![Your GitHub Stats](https://github-readme-stats-git-main-david-henderson1s-projects.vercel.app/api?username=David-Henderson1&show_icons=true&theme=transparent&count_private=true&random=132&hide=contribs&hide_border=true)  
-![Top Languages](https://github-readme-stats-git-main-david-henderson1s-projects.vercel.app/api/top-langs/?username=David-Henderson1&layout=compact&theme=transparent&count_private=true&random=131&hide_border=true)  
+<img src="https://github-readme-stats-git-main-david-henderson1s-projects.vercel.app/api?username=David-Henderson1&show_icons=true&theme=transparent&count_private=true&random=132&hide=contribs&hide_border=true" /> 
+<img src="https://github-readme-stats-git-main-david-henderson1s-projects.vercel.app/api/top-langs/?username=David-Henderson1&layout=compact&theme=transparent&count_private=true&random=131&hide_border=true" />
 </div>
 
 ---
@@ -47,5 +47,5 @@ Always learning & contributing to open-source projects
 ### 🔥 Streak Stats  
 
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=David-Henderson1&theme=transparent&hide_border=true)](https://git.io/streak-stats)  
+<img src="https://streak-stats.demolab.com?user=David-Henderson1&theme=transparent&hide_border=true" />
 </div>
