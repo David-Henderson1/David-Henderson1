@@ -41,7 +41,3 @@ Always learning & contributing to open-source projects
 <img src="https://github-readme-stats-git-main-david-henderson1s-projects.vercel.app/api?username=David-Henderson1&show_icons=true&theme=transparent&count_private=true&random=132&hide=contribs&hide_border=true" /> 
 <img src="https://github-readme-stats-git-main-david-henderson1s-projects.vercel.app/api/top-langs/?username=David-Henderson1&layout=compact&theme=transparent&count_private=true&random=131&hide_border=true" />
 </div>
-
----
-
-![Metrics](https://metrics.lecoq.io/David-Henderson1?template=classic&base.community=0&base.metadata=0&languages=1&lines=1&people=1&repositories=1&activity=1&achievements=1&base=header)
