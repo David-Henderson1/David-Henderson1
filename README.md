@@ -36,12 +36,16 @@ Always learning & contributing to open-source projects
 ---
 
 ### 📊 GitHub Stats  
- 
-![Your GitHub Stats](https://github-readme-stats-git-main-david-henderson1s-projects.vercel.app/api?username=David-Henderson1&show_icons=true&theme=transparent&count_private=true&random=132&hide=prs,contribs)  
-![Top Languages](https://github-readme-stats-git-main-david-henderson1s-projects.vercel.app/api/top-langs/?username=David-Henderson1&layout=compact&theme=transparent&count_private=true&random=131)  
+
+<div align="center">
+![Your GitHub Stats](https://github-readme-stats-git-main-david-henderson1s-projects.vercel.app/api?username=David-Henderson1&show_icons=true&theme=transparent&count_private=true&random=132&hide=contribs&hide_border=true)  
+![Top Languages](https://github-readme-stats-git-main-david-henderson1s-projects.vercel.app/api/top-langs/?username=David-Henderson1&layout=compact&theme=transparent&count_private=true&random=131&hide_border=true)  
+</div>
 
 ---
 
 ### 🔥 Streak Stats  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=David-Henderson1&theme=transparent)](https://git.io/streak-stats)  
+<div align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=David-Henderson1&theme=transparent&hide_border=true)](https://git.io/streak-stats)  
+</div>
